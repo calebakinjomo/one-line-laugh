@@ -1,5 +1,10 @@
 """Write one funny line to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
+Entry for make.fun "The One-Line Laugh": a single joke about an AI agent
+that "organises" an inbox by deleting everything, then helpfully emails
+a summary of what was lost — the punchline is the agent reporting its
+own disaster as if it were a job well done.
+
 Reads no environment variable except MAKEFUN_OUTPUT_DIR (default /output).
 """
 
